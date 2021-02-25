@@ -33,3 +33,7 @@ O projeto desenvolvido trabalha com um sub sistema de compras, especificamente a
 Dado a entrada de 7 produtos com códigos [1,2,4,5,12,7 e 8], a arvore se comportará da seguinte maneira:
 
 ![](https://github.com/Sr-Souza-dev/Aeds---rvore-Red-and-Black/blob/master/img/img1.PNG)
+![](https://github.com/Sr-Souza-dev/Aeds---rvore-Red-and-Black/blob/master/img/img2.PNG)
+![](https://github.com/Sr-Souza-dev/Aeds---rvore-Red-and-Black/blob/master/img/img3.PNG)
+![](https://github.com/Sr-Souza-dev/Aeds---rvore-Red-and-Black/blob/master/img/img4.PNG)
+![](https://github.com/Sr-Souza-dev/Aeds---rvore-Red-and-Black/blob/master/img/img5.PNG)
